@@ -27,3 +27,6 @@ go.work
 # End of https://www.toptal.com/developers/gitignore/api/go
 
 .idea
+
+# 3.5.4 で自動生成されるファイルを無視
+PNG_transparency_demonstration_secret.png
