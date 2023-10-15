@@ -30,3 +30,6 @@ go.work
 
 # 3.5.4 で自動生成されるファイルを無視
 PNG_transparency_demonstration_secret.png
+
+# 9.2.1 で自動生成されるファイルを無視
+textfile.txt
