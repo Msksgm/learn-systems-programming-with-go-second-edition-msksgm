@@ -33,3 +33,6 @@ PNG_transparency_demonstration_secret.png
 
 # 9.2.1 で自動生成されるファイルを無視
 textfile.txt
+
+# 12.5.1 で生成されるファイルを無視
+12_process/s5-2/count
